@@ -1,6 +1,9 @@
 package top.omgdo.hellojava.unit;
 
 
+import org.apache.shiro.crypto.hash.Md5Hash;
+import org.apache.shiro.crypto.hash.SimpleHash;
+
 /**
  * list 的操作
  */
